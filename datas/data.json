@@ -1,0 +1,44 @@
+{
+    "2024-05-15": {
+        "AB-Block-1": 12,
+        "AB-Block-2": 111,
+        "Cellular-Block": 11,
+        "HS-Block": 11,
+        "A-Class": 11,
+        "Quarantine": 0,
+        "Hospital": 32,
+        "Emulakath": 45,
+        "category": {
+            "video": 5435,
+            "audio": 43543
+        }
+    },
+    "2024-05-16": {
+        "AB-Block-1": 2,
+        "AB-Block-2": 21,
+        "Cellular-Block": 21,
+        "HS-Block": 21,
+        "A-Class": 0,
+        "Quarantine": 0,
+        "Hospital": 0,
+        "Emulakath": 0,
+        "category": {
+            "video": 122,
+            "audio": 12
+        }
+    },
+    "2024-05-07": {
+        "AB-Block-1": 0,
+        "AB-Block-2": 0,
+        "Cellular-Block": 0,
+        "HS-Block": 0,
+        "A-Class": 0,
+        "Quarantine": 0,
+        "Hospital": 0,
+        "Emulakath": 0,
+        "category": {
+            "video": 123,
+            "audio": 60
+        }
+    }
+}
